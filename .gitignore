@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+dist/
+.vs/
+.agents/
+.codex/
+.aws/
+*.user
+*.suo
